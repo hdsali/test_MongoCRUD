@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MongoTest7CQRS.props" />
+</Project>

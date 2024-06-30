@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mongo_Test7.props" />
+</Project>

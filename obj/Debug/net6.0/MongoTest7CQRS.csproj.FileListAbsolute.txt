@@ -1,0 +1,7 @@
+F:\WorkSpace\C_Sharp\OcelotGateway\OcelotGatewayExampleCopie\TestingMongo7CQRS\Mongo_Test7\obj\Debug\net6.0\MongoTest7CQRS.csproj.AssemblyReference.cache
+F:\WorkSpace\C_Sharp\OcelotGateway\OcelotGatewayExampleCopie\TestingMongo7CQRS\Mongo_Test7\obj\Debug\net6.0\MongoTest7CQRS.GeneratedMSBuildEditorConfig.editorconfig
+F:\WorkSpace\C_Sharp\OcelotGateway\OcelotGatewayExampleCopie\TestingMongo7CQRS\Mongo_Test7\obj\Debug\net6.0\MongoTest7CQRS.AssemblyInfoInputs.cache
+F:\WorkSpace\C_Sharp\OcelotGateway\OcelotGatewayExampleCopie\TestingMongo7CQRS\Mongo_Test7\obj\Debug\net6.0\MongoTest7CQRS.AssemblyInfo.cs
+F:\WorkSpace\C_Sharp\OcelotGateway\OcelotGatewayExampleCopie\TestingMongo7CQRS\Mongo_Test7\obj\Debug\net6.0\MongoTest7CQRS.csproj.CoreCompileInputs.cache
+F:\WorkSpace\C_Sharp\OcelotGateway\OcelotGatewayExampleCopie\TestingMongo7CQRS\Mongo_Test7\obj\Debug\net6.0\MongoTest7CQRS.MvcApplicationPartsAssemblyInfo.cs
+F:\WorkSpace\C_Sharp\OcelotGateway\OcelotGatewayExampleCopie\TestingMongo7CQRS\Mongo_Test7\obj\Debug\net6.0\MongoTest7CQRS.MvcApplicationPartsAssemblyInfo.cache
